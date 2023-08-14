@@ -17,13 +17,13 @@ Code features: <br />
 
 
 # Screen shots:<br />
-![Screenshot](back3dview.png) <br />
+![Screenshot](update.png) <br />
+![Screenshot](upd2.png) <br />
+![Screenshot](red.png) <br />
 ![Screenshot](blue.png) <br />
+![Screenshot](back3dview.png) <br />
 ![Screenshot](front2d.png) <br />
 ![Screenshot](front3dview.png) <br />
-![Screenshot](red.png) <br />
-![Screenshot](upd2.png) <br />
-![Screenshot](update.png) <br />
 
 ## Updates coming soon <br />
 
